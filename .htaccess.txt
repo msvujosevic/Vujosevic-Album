@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile C:\Users\Marko\Documents\Bootstrap Example
-require valid-user
