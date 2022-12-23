@@ -15,7 +15,8 @@ body::before {
 }
 
 .c-item {
-    height:905px;
+    /* 905px */
+    height: 92.8vh; 
 }
 
 .c-img {
