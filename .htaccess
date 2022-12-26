@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile msvujosevic/Vujosevic-Album/.htpasswd
+AuthUserFile Vujosevic-Album/.htpasswd
 require valid-user
