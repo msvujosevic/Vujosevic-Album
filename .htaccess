@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile Vujosevic-Album/.htpasswd
-require valid-user
